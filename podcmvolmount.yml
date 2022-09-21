@@ -14,7 +14,7 @@ spec:
             name: truew
             key: ref
     volumeMounts:
-    - name: birke
+    - name: bike
       mountPath: /etc/bike/
   volumes:
     - name: bike
